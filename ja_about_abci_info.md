@@ -5,14 +5,14 @@ permalink: /ja/about_abci/info.html
 ---
 
 
-## 運転状況
+## 運転状況 
 {: .h2 }
 
 
 ### 運用スケジュール
 {: .h3 }
 
-<p class="c">現在の運転状況・障害状況は下記のとおりです。</p>
+<p class="c">現在の運転状況・障害状況は下記のとおりです。(2018/09/13最終更新) </p>
 <table class="table">
   <tr>
     <th>開始日時</th>

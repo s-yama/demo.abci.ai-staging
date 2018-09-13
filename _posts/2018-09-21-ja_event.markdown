@@ -1,0 +1,11 @@
+---
+layout: ja/event/post
+title:  "ABCI Down during 2018/09/21 13:00-09/26 17:00"
+date:   2018-09-21 00:00:00 +0900
+showdate: 2018.09.21
+lang: ja
+headline: "1"
+categories: "EVENT"
+img: event5.png
+outurl: https://s-yama.github.io/demo.abci.ai/ja/about_abci/info.html
+---
